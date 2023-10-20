@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14">
+  <defs/>
+  <g opacity=".56" transform="translate(-.468)">
+    <circle cx="7" cy="7" r="7" fill="none" data-name="Ellipse 16" transform="translate(.468)"/>
+    <path fill="none" d="M.468 0h14v14h-14z" data-name="Rectangle 123"/>
+    <path fill="#fff" d="M8.171 2.431v3.132a2.411 2.411 0 00-2.016-.912 3.324 3.324 0 00-2.392.987 3.74 3.74 0 00.107 5.491 3.277 3.277 0 002.242.847 2.744 2.744 0 002.124-.847v.8h2.048V1.991zm-1.6 7.636a1.776 1.776 0 11-.075-3.55 1.741 1.741 0 011.748 1.8 1.7 1.7 0 01-1.671 1.75z" data-name="Path 146"/>
+  </g>
+</svg>
